@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "/blog"
-url: "https://qiaoshouliang.github.io/blog"
+url: "https://qiaoshouliang.github.io"
 title: JOSEN's BLOG # site's title
 description: "A website with blog posts and pages" # used by search engines
 
