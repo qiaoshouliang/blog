@@ -9,7 +9,7 @@ description: "A website with blog posts and pages" # used by search engines
 theme_settings:
   # Meta
   title: JOSEN's BLOG # blog's title
-  avatar: assets/img/triangle.svg
+  avatar: assets/img/triangle.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
 
@@ -18,18 +18,18 @@ theme_settings:
      <p>Bug? <br> Are you kidding me?</p>
   header_text_feature_image: assets/img/pexels/background.jpg
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+   Copyright © <a href="https://qiaoshouliang.github.io/">Josen</a> 2018
 
   # Icons
-  rss: true  # Make sure you created a feed.xml with feed.xml layout
+  rss:   # Make sure you created a feed.xml with feed.xml layout
   email_address: qiaoshouliang@126.com
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  gitlab: https://github.com/qiaoshouliang
-  github: "sylhare"
+  gitlab: 
+  github: https://github.com/qiaoshouliang
   google_plus:
   instagram:
   keybase:
@@ -47,16 +47,16 @@ theme_settings:
   
   # Sharing options
   share_buttons:
-    facebook: true
-    twitter: true
-    google_plus: true
+    facebook: 
+    twitter: 
+    google_plus: 
     tumblr:
     pinterest:
     pocket:
-    reddit: true
+    reddit: 
     linkedin:
     wordpress:
-    email: true
+    email: 
 
   # Scripts / Features 
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
