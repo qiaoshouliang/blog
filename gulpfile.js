@@ -28,14 +28,7 @@ gulp.task("img", function () {
             gutil.log(gutil.colors.red('[Error]'), err.toString());
         })
         .pipe(gulp.dest('assets/img/'))
-    gulp.src('assets/post_img/*.{png,svg,jpg,gif}')
-        .pipe(imagemin())
-        .on('error', (err) => {
-            gutil.log(gutil.colors.red('[Error]'), err.toString());
-        })
-        .pipe(gulp.dest('assets/img/'))
 });
-
 
 gulp.task('minify-bootstrap-css', function () {
     gutil.log('... Minifying isolated bootstrap');
