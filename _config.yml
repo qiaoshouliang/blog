@@ -16,7 +16,7 @@ theme_settings:
   # Header and footer text
   header_text: > #two or three lines to describe your site
      <p>Show me the code</p>
-  header_text_feature_image: assets/img/pexels/background.jpg
+  header_text_feature_image: https://qiaoshouliangasdf.oss-cn-hangzhou.aliyuncs.com/2020-09-07-background.jpg
   footer_text: >
    Copyright © <a href="https://qiaoshouliang.github.io/">Josen</a> 2018
 
